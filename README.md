@@ -1,5 +1,4 @@
-- hi, im squidbyte/squid :3
-- im a second year cs student in the uk
+- squid
 
 <!---
 squidbyte/squidbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
